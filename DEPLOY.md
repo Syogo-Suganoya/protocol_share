@@ -25,7 +25,7 @@ GitHub 連携で最も簡単に公開できます。無料の Hobby プランで
 
 ### 手順
 
-1. コードを GitHub にプッシュする（このリポジトリは `gemini-ops-orchestrator`）。
+1. コードを GitHub にプッシュする
 2. <https://vercel.com> にログイン →「**Add New... → Project**」→ 対象リポジトリを **Import**。
 3. 設定画面で以下を指定:
    - **Root Directory**: `protocol_share` を選択（← モノレポなので必須）。
