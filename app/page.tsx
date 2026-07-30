@@ -239,7 +239,7 @@ export default function LandingPage() {
       </section>
 
       <footer className="border-t border-zinc-800 px-6 py-6 text-center text-xs text-zinc-600">
-        プロトコル・シェア（Protocol Share）※仮題 ―― 生成AI駆動型・対話ミステリアドベンチャー
+        プロトコル・シェア（Protocol Share） ―― 生成AI駆動型・対話ミステリアドベンチャー
       </footer>
     </div>
   );
